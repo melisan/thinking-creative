@@ -1,0 +1,12 @@
+{
+  "name": "thinking-creative",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Thinking Creative - philosophical thinking and essay writing mentorship",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
